@@ -1,4 +1,5 @@
-# CLI BlackJack!
+# Blackjack within the Command line!
+- made with Python
 
 ## Instructions
 
